@@ -60,10 +60,10 @@ module.exports.session = {
   // prefix: 'sess:'
 
   host: 'hoki.redistogo.com',
-  port: 10015,
+  port: 9711,
   // ttl: <redis session TTL in seconds>,
   db: 'redistogo',
-  pass: '88819aa089d3dd86235f9fad4cb92e48'
+  pass: 'f8de6703d4cdc74ce7c21ec4a2963716'
 
 
   /***************************************************************************

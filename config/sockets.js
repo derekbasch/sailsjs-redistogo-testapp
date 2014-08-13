@@ -91,17 +91,17 @@ module.exports.sockets = {
   *                                                                          *
   ***************************************************************************/
 
-  adapter: 'redis',
+  // adapter: 'redis',
   // host: '127.0.0.1',
   // port: 6379,
   // db: 'sails',
   // pass: '<redis auth password>'
 
-  host: 'hoki.redistogo.com',
-  port: 10015,
-  // ttl: <redis session TTL in seconds>,
-  db: 'redistogo',
-  pass: '88819aa089d3dd86235f9fad4cb92e48'
+  // host: 'hoki.redistogo.com',
+  // port: 9711,
+  // // ttl: <redis session TTL in seconds>,
+  // db: 'redistogo',
+  // pass: 'f8de6703d4cdc74ce7c21ec4a2963716'
 
 
   /***************************************************************************
